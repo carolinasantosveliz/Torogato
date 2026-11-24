@@ -1,0 +1,17 @@
+TOROGATO EDITORIAL — SITIO WEB INICIAL
+
+Archivos:
+- index.html: estructura y contenido.
+- styles.css: estilos y diseño adaptable a móviles.
+- script.js: menú móvil, año automático y comportamiento del formulario.
+- assets/torogato-icono.png: ícono proporcionado.
+
+Para visualizar:
+1. Descomprime la carpeta.
+2. Abre index.html en tu navegador.
+3. Para editar, abre la carpeta en Visual Studio Code.
+
+Notas:
+- La tipografía Lora e Inter se cargan desde Google Fonts; requieren conexión a internet.
+- El formulario es una maqueta visual y todavía no envía mensajes. Para activarlo hay que conectar un correo o servicio de formularios.
+- El catálogo está preparado como sección inicial, sin títulos inventados. Agrega las portadas y fichas reales cuando estén listas.
